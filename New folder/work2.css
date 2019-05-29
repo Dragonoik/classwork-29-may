@@ -1,0 +1,49 @@
+body{
+	padding: 10px 20% 0 20%;
+	background-color: #BF3A30;
+}
+
+header div{
+	display: inline-block;
+	background-color: #A60C00;
+	width: 200px;
+	height: 20px;
+	text-align: center;
+	color: white;
+}
+
+main section{
+	margin-top: 50px;
+	padding: 5px 20px 5px 20px;
+	background-color: #A60C00;
+}
+
+footer{
+	padding: 5px 0 5px 20px;
+	background-color: #A60C00;
+}
+
+main article{
+	margin: 50px 0 0 0;
+	padding: 5px 20px 20px 20px;
+	background-color: white;
+	width: 500px;
+}
+
+main div{
+	float: left;
+}
+
+footer ul{
+	text-decoration: underline;
+}
+
+img{
+	width: 80px;
+	height: 80px;
+}
+
+footer{
+	margin-top: 700px;
+	width: 100%;
+}
